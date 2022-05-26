@@ -5,7 +5,9 @@ I am working as a Data Scientist cum. Analytics Lead, and my research interests 
 <li><a href="https://www.linkedin.com/in/khanh-brandy/">My Linkedin</a></li>
 <li><a href="https://www.flickr.com/photos/khanhbrandy/">My Flickr</a></li>
 <br>
+
 ### Here are some of my projects
+
 <br>
 <li><b> Graph-based recommendation</b><br> </li>
 <ul style="list-style-type:circle;" >
