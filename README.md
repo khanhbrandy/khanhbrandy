@@ -33,7 +33,7 @@ I am working as a Data Scientist cum. Analytics Lead, and my research interests 
       <li><i><a href="https://github.com/khanhbrandy/ML_from_scratch_in_Julia"> Read more </a></i></li>
   </ul>
   
-<li><b> Data Mining and Visualization techniques</b><br> </li>
+<li><b> Data Mining and Visualization using BI Tools</b><br> </li>
   <ul style="list-style-type:circle;" >
       <li><i><a href="https://github.com/khanhbrandy/Data_Mining_Visualization"> Read more </a></i></li>
   </ul>
