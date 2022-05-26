@@ -1,4 +1,4 @@
-### About me: 
+### About me
 
 I am working as a Data Scientist cum. Analytics Lead, and my research interests are in the area of Applied Statistics, Quantitative Finance, Predictive Analytics, Graph Mining and Machine Learning applications in business decision making
 
