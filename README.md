@@ -27,6 +27,11 @@ I am working as a Data Scientist cum. Analytics Lead, and my research interests 
   <ul style="list-style-type:circle;" >
       <li><i><a href="https://github.com/khanhbrandy/Stacking_from_scratch"> Read more </a></i></li>
   </ul>
+  
+<li><b> A simple search web app</b><br> </li>
+  <ul style="list-style-type:circle;" >
+      <li><i><a href="https://github.com/khanhbrandy/a-search-web-app"> Read more </a></i></li>
+  </ul>
 
 <li><b> Machine Learning from scratch in Julia</b><br> </li>
   <ul style="list-style-type:circle;" >
