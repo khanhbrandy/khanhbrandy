@@ -32,11 +32,6 @@ I am working as a Data Scientist cum. Analytics Lead, and my research interests 
   <ul style="list-style-type:circle;" >
       <li><i><a href="https://github.com/khanhbrandy/a-search-web-app"> Read more </a></i></li>
   </ul>
-
-<li><b> Machine Learning from scratch in Julia</b><br> </li>
-  <ul style="list-style-type:circle;" >
-      <li><i><a href="https://github.com/khanhbrandy/ML_from_scratch_in_Julia"> Read more </a></i></li>
-  </ul>
   
 <li><b> Data Mining and Visualization using BI Tools</b><br> </li>
   <ul style="list-style-type:circle;" >
