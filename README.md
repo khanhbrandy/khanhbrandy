@@ -1,6 +1,6 @@
 ### About me
 
-I am working as a Data Scientist cum. Analytics Lead, and my research interests are in the area of Applied Statistics, Quantitative Finance, Predictive Analytics, Graph Mining and Machine Learning applications in business decision making
+Independent thinker adept at questioning conventional wisdom and pushing boundaries, helping corporations overcome business challenges using modern data-driven techniques.
 
 <li><a href="https://khanhbrandy.github.io/">My Homepage</a></li>
 <li><a href="https://www.linkedin.com/in/khanh-brandy/">My Linkedin</a></li>
